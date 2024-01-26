@@ -1,0 +1,20 @@
+{
+  "name": "face-age-woocommerce",
+  "title": "face-age-woocommerce",
+  "version": "1.0.1",
+  "homepage": "https://getfaceage.com/",
+  "description": "A skin data-based beauty & healthcare platform, which provides a customized solution through accurate skin analysis.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/face-age/face-age-woocommerce"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "pnpm test:unit"
+  },
+  "browserslist": [
+    "> 0.1%",
+    "ie 8",
+    "ie 9"
+  ]
+}
