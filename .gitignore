@@ -1,0 +1,14 @@
+# Built CSS
+/assets/css/*
+
+# Built JS
+/assets/js/*
+/assets/client/*
+
+# Unit Tests
+/tests/bin/tmp
+/tests/e2e/config/local-*.json
+/tests/e2e/config/local.json
+/tests/e2e/screenshots
+/tests/e2e/plugins
+.phpunit.result.cache
